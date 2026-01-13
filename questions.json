@@ -2076,5 +2076,413 @@
             "Incorrect, because the drop in hemoglobin is not significant."
         ],
         "answer": "Incorrect, because the drop in hemoglobin is not significant."
+    },
+    {
+        "question": "What is the function of the sodium-potassium pump?",
+        "options": [
+            "Levelling the membrane potential by transports of sodium and potassium from high to low concentration",
+            "Equalize extracellular and intracellular concentration of Sodium and Potassium.",
+            "Utilizes the concentration gradient of sodium and potassium for synthesis of ATP.",
+            "Building up the membrane potential, by active transport of Sodium and Potassium from low to high concentration"
+        ],
+        "answer": "Building up the membrane potential, by active transport of Sodium and Potassium from low to high concentration"
+    },
+    {
+        "question": "Where is DNA located in the cell?",
+        "options": [
+            "In the cell nucleus and the ribosomes",
+            "In the cell nucleus and the mitochondria",
+            "Only in the cell nucleus",
+            "In the cell nucleus and the sarcoplasmic reticulum"
+        ],
+        "answer": "In the cell nucleus and the mitochondria"
+    },
+    {
+        "question": "The process of making a RNA copy of a gene's DNA sequence is called......",
+        "options": [
+            "Translation",
+            "Transcription",
+            "Replication",
+            "Reverse transcription"
+        ],
+        "answer": "Transcription"
+    },
+    {
+        "question": "Aerobic respiration is a process where glucose is metabolized to produce carbon dioxide, water, and a large amount of ATP. Where in the cell does this process primarily take place?",
+        "options": [
+            "The cytoplasm",
+            "The smooth endoplasmic reticulum",
+            "The mitochondria",
+            "The Golgi apparatus"
+        ],
+        "answer": "The mitochondria"
+    },
+    {
+        "question": "Duchenne muscular dystrophy (DMD) is caused by a mutation of the dystrophin gene located on the X-chromosome. DMD is inherited in an X-linked recessive manner. A woman who is a carrier for DMD and a man who does not have the disorder have a son together. What is the probability that their son will inherit DMD?",
+        "options": [
+            "25%",
+            "50%",
+            "0%",
+            "100%"
+        ],
+        "answer": "50%"
+    },
+    {
+        "question": "The myelin sheath is a protective covering that surrounds nerve fibers. In Multiple Sclerosis (MS), the myelin sheath is damaged. What is the primary consequence of this damage",
+        "options": [
+            "Decreased nerve impulse transmission",
+            "Increased nerve impulse transmission",
+            "Improved coordination",
+            "Enhanced muscle strength"
+        ],
+        "answer": "Decreased nerve impulse transmission"
+    },
+    {
+        "question": "In a normal eye, the light is focused on the retina. In hypermetropia (farsightedness), where is the light focused in the eye?",
+        "options": [
+            "In front of the retina",
+            "On the cornea",
+            "On the retina",
+            "Behind the retina"
+        ],
+        "answer": "Behind the retina"
+    },
+    {
+        "question": "Which brain structure acts as the main relay station for sensory information, directing it to the appropriate areas of the cerebral cortex?",
+        "options": [
+            "Cerebellum",
+            "Hypothalamus",
+            "Amygdala",
+            "Thalamus"
+        ],
+        "answer": "Thalamus"
+    },
+    {
+        "question": "Which part of the neuron receives signals from other neurons (input)?",
+        "options": [
+            "Axons",
+            "Myelin Sheath",
+            "Dendrites",
+            "Nodes of Ranvier"
+        ],
+        "answer": "Dendrites"
+    },
+    {
+        "question": "In the context of the nervous system, nerve cell bodies are collected in nuclei inside the central nervous system. What is the term for collections of nerve cell bodies located outside the central nervous system?",
+        "options": [
+            "Dendrites",
+            "Ganglia",
+            "Schwann Cells",
+            "Axons"
+        ],
+        "answer": "Ganglia"
+    },
+    {
+        "question": "Pain can protect the body from harmful stimuli. Hyperalgesia and allodynia are conditions related to abnormal pain responses. Which alternative is true for allodynia",
+        "options": [
+            "Allodynia is a condition where a stimulus that is typically painful is perceived as more painful than it should be",
+            "Allodynia is a condition where a stimulus that is typically painful is perceived as less painful than it should be",
+            "Allodynia is a condition where pain is caused by stimuli that do not normally provoke pain",
+            "Allodynia is a condition where pain is unaffected by stimuli that normally provoke pain"
+        ],
+        "answer": "Allodynia is a condition where pain is caused by stimuli that do not normally provoke pain"
+    },
+    {
+        "question": "The ejection fraction is used as a measure of ventricular function. A patient with heart failure has an end diastolic left ventricular volume of 220 ml. During rest, she has a normal cardiac output of 4.5 litres /min with a heart rate of 92 beats / min. What is the resting ejection fraction?",
+        "options": [
+            "32%",
+            "36%",
+            "22%",
+            "49%"
+        ],
+        "answer": "22%"
+    },
+    {
+        "question": "Pressure gradients quantify severity of stenotic lesions and can estimate unknown pressures from known pressures. Pressure and flow are integrally related. The pressure gradient can be estimated with Doppler ultrasound. A blood vessel has a narrowing (stenosis) in a short segment. In the normal part of the vessel the blood velocity is 1 m/s, through the stenosis the velocity increases to 5m/s. What is the approximate pressure gradient over the stenosis?",
+        "options": [
+            "100 mmHg",
+            "25 mmHg",
+            "50 mmHg",
+            "64 mmHg"
+        ],
+        "answer": "100 mmHg"
+    },
+    {
+        "question": "The picture shows an ultrasound picture of a heart where an ultrasound beam is used to record an echo that is printed along a time axis. What is this ultrasound modality called?",
+        "options": [
+            "Doppler mode",
+            "Motion mode",
+            "Brightness Mode",
+            "A-mode"
+        ],
+        "answer": "Motion mode",
+        "image": "static/images/14Ultrasound.png"
+    },
+    {
+        "question": "A patient presents with sudden one-sided paresis in the emergency room. A cerebral stroke is suspected. What is the most common cause of cerebral stroke?",
+        "options": [
+            "Blood clot - thrombosis or embolism",
+            "Vasospasm of cerebral artery",
+            "Fat embolism",
+            "Haemorrhaging (bleeding)"
+        ],
+        "answer": "Blood clot - thrombosis or embolism",
+        "image": "static/images/15CerebralStroke.png"
+    },
+    {
+        "question": "The blood pressure is among other things regulated by peripheral resistance. Which vessels are responsible for most of this resistance?",
+        "options": [
+            "Capillaries",
+            "Arterioles",
+            "Arteries",
+            "Venules"
+        ],
+        "answer": "Arterioles"
+    },
+    {
+        "question": "The P-wave in an ecg represents atrial depolarization. What does the T-wave represent?",
+        "options": [
+            "Atrial repolarization",
+            "Ventricular repolarization",
+            "Ventricular depolarization",
+            "Conduction through the AV-node"
+        ],
+        "answer": "Ventricular repolarization",
+        "image": "static/images/17Twave.png"
+    },
+    {
+        "question": "What happens with the cardiac pumping during the PQ interval?",
+        "options": [
+            "The atria contracts and fills the ventricles",
+            "The ventricles relax and draws blood passively from the atria",
+            "The ventricles eject blood into the aorta",
+            "The ventricles contract, in order to increase the pressure, without ejectiong blood"
+        ],
+        "answer": "The atria contracts and fills the ventricles"
+    },
+    {
+        "question": "Training for maximal neural adaptation (recruitment and coordination of motor units). In training for maximal strength, training neural adaptation is a key component. How do we train for maximal neural adaptation? (RM - repetition maximum)",
+        "options": [
+            "Eccentric training",
+            "At least 15 repetitions/series",
+            "Low intensity (30-50% of 1RM), 10-12 reps per series",
+            "High intensity (close to 90% of 1RM), few repetitions per series"
+        ],
+        "answer": "High intensity (close to 90% of 1RM), few repetitions per series"
+    },
+    {
+        "question": "What best describes a motor unit in the context of muscle contraction?",
+        "options": [
+            "A motor unit refers to a group of muscle fibers that contract independently of each other",
+            "A motor unit refers to a group of nerve cells that control a single muscle fiber",
+            "A motor unit refers to a single muscle fiber and all the nerve cells connected to it",
+            "A motor unit refers to a single nerve cell and all the muscle fibers it innervates"
+        ],
+        "answer": "A motor unit refers to a single nerve cell and all the muscle fibers it innervates"
+    },
+    {
+        "question": "A 45-year-old woman with no symptoms wants a checkup to ensure she doesn’t have breast cancer, for peace of mind. She went to a private specialist and had a mammography performed. The risk of having significant breast cancer in women without symptoms at that age may be assumed to be 2%. Mammography has a sensitivity of about 85% and a specificity of 95%. This may be expressed in the following 4x4 table: Positive test Negative test Total Healthy 4.75% 93.25% 95% Ill/Sick 1.7% 0.3% 2% Total 6.45% 93.55% 100% If the test shows a negative result (meaning it doesn’t indicate breast cancer), what is the negative predictive value (NPV) of the test?",
+        "options": [
+            "0.3%",
+            "15%",
+            "98.1%",
+            "99.7%"
+        ],
+        "answer": "99.7%",
+        "image": "static/images/21NPV.png"
+    },
+    {
+        "question": "The significance (p value) of a controlled study result, is often given as a percentage, for instance 5%. What does this mean?",
+        "options": [
+            "The probability of the study result being true (random) is 5%",
+            "The probability of the study result being true (non random) is 5%",
+            "The study effect (difference in outcome between groups) is 5%",
+            "The study effect (difference in outcome between groups) is 20%"
+        ],
+        "answer": "The probability of the study result being true (random) is 5%"
+    },
+    {
+        "question": "A 60-year-old woman visits her doctor to check if she has ovarian cancer and requests a blood test for CA-125, a marker for this condition. Her CA-125 level is 40 U/ml, which is elevated. With a cut-off of 35 U/ml, the test has a sensitivity of 80% and a specificity of 90%. The prevalence of ovarian cancer among women aged 60 to 70 is about 1%. What is the probability that she has cancer (positive predictive value of the test)?",
+        "options": [
+            "92.5%",
+            "99.8%",
+            "7.5%",
+            "2%"
+        ],
+        "answer": "7.5%"
+    },
+    {
+        "question": "You arrive at the scene of a cardiac arrest and find the patient unresponsive, unconscious, not breathing and with no pulse. You attach the defibrillator and see the following rhythm on the monitor: ventricular fibrillation (VF). What is the most appropriate next step in managing this patient?",
+        "options": [
+            "Start chest compressions, this is a non-shockable rhythm",
+            "Check for pulse again, this hearth rhythm should give a pulse",
+            "Administer epinephrine/adrenalin immediately",
+            "Chest compressions and prepare for defibrillation a soon as possible"
+        ],
+        "answer": "Chest compressions and prepare for defibrillation a soon as possible"
+    },
+    {
+        "question": "Depolarization (Phase 0) of a cardiomyocyte is characterized by.....",
+        "options": [
+            "Potassium (K+) efflux",
+            "Potassium (K+) influx",
+            "Influx of sodium (Na+)",
+            "Efflux of sodium (Na+)"
+        ],
+        "answer": "Influx of sodium (Na+)",
+        "image": "static/images/25Phase0.png"
+    },
+    {
+        "question": "What is the name of the conduction disturbance illustrated in this ecg?",
+        "options": [
+            "Sinus block",
+            "Second-degree AV block (Mobitz type II)",
+            "First-degree AV block",
+            "Right bundle branch block"
+        ],
+        "answer": "First-degree AV block",
+        "image": "static/images/26ConductionDisturbance.png"
+    },
+    {
+        "question": "What is the origin of the signal in clinical magnetic resonance imaging?",
+        "options": [
+            "Hydrogen nuclei (protons).",
+            "Water molecules.",
+            "Iron ions.",
+            "Injected magnetic particles."
+        ],
+        "answer": "Hydrogen nuclei (protons)."
+    },
+    {
+        "question": "This picture illustrates a pulse waved Doppler (PW-Doppler) recording above the aortic valve. Velocity traces are sampled from a specific depth along the ultrasound beam. How is this depth selectivity achieved?",
+        "options": [
+            "By selecting a certain frequency in the reflected signal (frequency gating)",
+            "By varying the frequency in the transmitted signal",
+            "By selecting the reflected signal at a certain time after the pulse is sent out (time gating)",
+            "By varying the total energy in the transmitted signal"
+        ],
+        "answer": "By selecting the reflected signal at a certain time after the pulse is sent out (time gating)",
+        "image": "static/images/28DepthSpecificty.png"
+    },
+    {
+        "question": "A patient has been wounded by steel fragments from a cluster bomb. Which imaging modality would be the most suitable and safe, to locate the fragment?",
+        "options": [
+            "MRI",
+            "Positron Emission Tomography (PET)",
+            "X-ray",
+            "Ultrasound Imaging"
+        ],
+        "answer": "X-ray"
+    },
+    {
+        "question": "A patient has a cardiac output (CO) of 4,5 L/min. We do a heart catheterization at rest, and measure a hemoglobin of 12.0 g/dl, an arterial oxygen saturation of 100%, and a mixed venous saturation of 70%. One gram of hemoglobin binds 1.4 ml of oxygen. The patient weighs 70 kg. What is her oxygen uptake during the procedure?",
+        "options": [
+            "3.24 ml/kg/min",
+            "3.8 ml/kg/min",
+            "32 ml/kg/min",
+            "2.26 ml/kg/min"
+        ],
+        "answer": "3.24 ml/kg/min"
+    },
+    {
+        "question": "Maximum oxygen uptake is a measure of aerobic fitness. What limits the maximal oxygen uptake in healthy individuals?",
+        "options": [
+            "The anaerobic threshold of the muscles",
+            "The maximal pumping capacity of the heart",
+            "The maximal ventilator capacity of the lungs",
+            "The maximal gas diffusion capacity of the alveoli"
+        ],
+        "answer": "The maximal pumping capacity of the heart"
+    },
+    {
+        "question": "We do an oxygen uptake test of a well trained athlete, and find that her maximal oxygen uptake (VO2maks) is 70 ml/kg/min. Her hemoglobin is 14.0 g/dL and she weighs 60 kg. One gram of hemoglobin binds 1.4 ml of oxygen. During maximal effort, it can be assumed that her oxygenation is adequate with arterial saturation 100%, and mixed venous saturation 10%. What is her maximal cardiac output?",
+        "options": [
+            "214.3 L/min",
+            "23.8 L/min",
+            "18.5 L/min",
+            "21.4 l/min"
+        ],
+        "answer": "23.8 L/min"
+    },
+    {
+        "question": "Conventional nuclear imaging uses technetium as the radiation source. What makes Technetium so versatile in functional imaging of so many different organ systems?",
+        "options": [
+            "Technetium is a naturally occurring element in the human body, making it safe for use in nuclear imaging",
+            "Technetium has a unique color that makes it easy to detect in the human body.",
+            "Because technetium is so reactive, it can be bound to many different chemical compounds that have affinity for different tissues",
+            "Because Technetium has such long half life, allows for easily detectable gamma rays for a long time, making imaging easy"
+        ],
+        "answer": "Because technetium is so reactive, it can be bound to many different chemical compounds that have affinity for different tissues"
+    },
+    {
+        "question": "What imaging modality is used to create this image?",
+        "options": [
+            "PET-scan",
+            "CT imaging",
+            "X-ray",
+            "MR imaging"
+        ],
+        "answer": "CT imaging",
+        "image": "static/images/34ImageModality.png"
+    },
+    {
+        "question": "What happens to ultrasound images when the frequency increases (higher frequency)?",
+        "options": [
+            "Depth penetration decreases, resolution increases",
+            "Depth penetration increases, resolution decreases",
+            "Depth penetration decreases, resolution decreases",
+            "Depth penetration increases, resolution increases"
+        ],
+        "answer": "Depth penetration decreases, resolution increases"
+    },
+    {
+        "question": "The mean incidence of covid-19 in Trondheim in week 45 this year was 10% (weekly incidens). If the average duration of covid-19 is 5 days, what was the mean prevalence of covid-19 that week?",
+        "options": [
+            "10%",
+            "14%",
+            "7.1%",
+            "5%"
+        ],
+        "answer": "7.1%"
+    },
+    {
+        "question": "“Study power” is a measure of the probability of that a clinical study will detect an effect if there is one to be detected. The significance level (alpha) is the threshold for rejecting the null hypothesis. How does increasing the significance level (alpha) affect the study power?",
+        "options": [
+            "It decreases study power",
+            "It increases study power",
+            "It has no effect on study power",
+            "Study power then becomes unpredictable"
+        ],
+        "answer": "It increases study power"
+    },
+    {
+        "question": "What is a type II error?",
+        "options": [
+            "Accepting a false result as true (false positive)",
+            "Discarding a true result as false (false negative)",
+            "The power",
+            "The confidence interval"
+        ],
+        "answer": "Discarding a true result as false (false negative)"
+    },
+    {
+        "question": "Which statement is true when it comes to heart arrhythmias:",
+        "options": [
+            "Tachycardia in the atria are usually more dangerous than in the ventricles",
+            "Ventricular fibrillation is not dangerous",
+            "In atrial fibrillation there is slow and regular atrial activation",
+            "Tachycardia in the ventricles can be extremely dangerous"
+        ],
+        "answer": "Tachycardia in the ventricles can be extremely dangerous"
+    },
+    {
+        "question": "A patient presents with lack of fine control, clumsy movements, and difficulty walking. He seems to be uncoordinated and has an unsteady gait. The patient had an infection several weeks ago, and the physician suspects he has \"post-viral ataxia.\" Which part of the brain interacts with incoming and outgoing impulses to the motor cortex to coordinate body movements, responsible for the coordination of voluntary movements and maintaining balance?",
+        "options": [
+            "Cerebellum",
+            "Brain stem",
+            "Thalamus",
+            "Hippocampus"
+        ],
+        "answer": "Cerebellum"
     }
 ]
