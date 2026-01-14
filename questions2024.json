@@ -241,7 +241,8 @@
             "Administer epinephrine/adrenalin immediately",
             "Chest compressions and prepare for defibrillation a soon as possible"
         ],
-        "answer": "Chest compressions and prepare for defibrillation a soon as possible"
+        "answer": "Chest compressions and prepare for defibrillation a soon as possible",
+        "image":  "static/images/24CardiacArrest.png"
     },
     {
         "question": "Depolarization (Phase 0) of a cardiomyocyte is characterized by.....",
